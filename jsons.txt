@@ -1,0 +1,25 @@
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500
+CURRENT CONDITION: I am the son of a former president of the United States of America
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure (VT side or VW side)
+ROOT CAUSE: Debugging Session identifies that the restbus simulation
+COUNTERMEASURES: The failure is caused by VW Restbus simulation
+EFFECT CONFIRMATION: As there are no technical problems in VT deliverables
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation
+
+
+PROBLEM DESCRIPTION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks
+CURRENT CONDITION: Injectors mechanically inoperable after 400 cycles of thermal shock
+TARGET CONDITION: Product functionality remains post air-air thermal shock testing
+ROOT CAUSE: Injector M085K27336 was sumberged in n-Heptane for 24 hours
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application
+EFFECT CONFIRMATION: Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above)
+
+
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever
+CURRENT CONDITION: Current $01A0 in UDS $22 service D is defined by '5' Lever Switch Displayed via GDS before changing
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22
+ROOT CAUSE: In Nu ATK CVT Spec was only SWCN canceled
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement even the project is not pilot
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610) 7
+FOLLOW UP ACTION: Yokoten will deliver to further project via UDS test method with GDS mobile
