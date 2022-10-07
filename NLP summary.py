@@ -205,7 +205,7 @@ def main():
     path = ["Json files/*.json"]
     json_files = get_filenames(path)
     i=0
-    with open('jsons4.0.txt', 'a') as g:
+    with open('jsons.txt', 'a') as g:
         while i < len(json_files):
             f = open(json_files[i])
             dicts = json.load(f)
@@ -215,7 +215,7 @@ def main():
                     u = 150
                     if val[0] == "PROBLEM DESCRIPTION" or val[0] == "TARGET CONDITION" or val[0] == "CURRENT CONDITION" or val[0] == "ROOT CAUSE ANALYSIS" or val[0] == "COUNTERMEASURES" or val[0] == "EFFECT CONFIRMATION" or val[0] == "FOLLOW UP ACTION":
                         g.write("\n")
-                        a = model(val[1], True, 53)
+                        a = model(val[1], False, 53)
                         g.write(cut(a,l,u,val[0]))
             i+=1
 
