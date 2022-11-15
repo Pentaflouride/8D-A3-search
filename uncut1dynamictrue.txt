@@ -1,0 +1,282 @@
+
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench mechanical
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench mechanical
+
+CURRENT CONDITION: 200M Audit: 47362 = -10 .1%, 47371 = -3%. 200M
+CURRENT CONDITION: Audit: 47362 = -10.1. Specification (+5% / -3%) 200
+CURRENT CONDITION: Audit: 47362 = -10.1. Specification (+5% / -3%) 200
+CURRENT CONDITION: Audit: 47362 = -10.1. Specification (+5% / -3%) 200
+CURRENT CONDITION: 3.3% . -3% *Reference 8D ES191216231144 for
+
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+
+ROOT CAUSE ANALYSIS:  Dynamic lean shift occurs due to an increase in opening time, and variation in opening times is seen part to part. DynamicLeanShift.com will feature more videos from CNN.com in the coming weeks. Click here for more videos.
+
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+COUNTERMEASURES: CpK = 1.27 (slide 16) Upper Limit Lower Limit CpK Test Samples Out of Spec. Hatfield, Status: Complete - +8% from nominal results in capability.
+COUNTERMEASURES: CpK = 1.27 (slide 16) Upper Limit Lower Limit CpK Test Samples Out of Spec Shift from Baseline Shift from Nominal. J. Hatfield, Status: Complete - +8% from nominal results in capability of Cpk = 1  27.
+
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+PROBLEM DESCRIPTION: The failure appears after first SCR system initiation (F1_Test)
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system) .
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+ROOT CAUSE ANALYSIS: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. Components/systems analysis: TFM/System.
+ROOT CAUSE ANALYSIS: Full pump characterization cw40 to locate source of symptom. Optimization of BMW test to be proved. First part was NTF; cleanliness analysis t.b  CW 40.
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+
+COUNTERMEASURES: Current test pressure of 5.5bar to be increased to 6.5 bar. Alignment with customer is to increase the current test pressure from 5  to 6
+COUNTERMEASURES: Current test pressure is 5.5bar (Daimler setup) Alignment with customer is to increase the current test pressure of 5. 5bar to 6.
+COUNTERMEASURES: Current test pressure is 5.5bar (Daimler Setup) . Alignment with customer is to increase the current test pressure to 6.5 bar (
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+
+
+
+PROBLEM DESCRIPTION:  CN7/CN7a product SIM3K-541, SW version 6VA600. HMMA QC reported that '5' instead of 'D' was displayed for the select lever switch information.
+PROBLEM DESCRIPTION:  CN7/CN7a product SIM3K-541, SW version 6VA600. HMMA QC reported that '5' instead of 'D' was displayed for the select lever switch information via UDS $22 in Roll &Brake
+
+CURRENT CONDITION: Roll and brake test in customer plant cannot be passed due to wrong gear information from TCU. Lever Switch Displayed via GDS before changing
+
+TARGET CONDITION: Service D is defined by '8' at Nu ATK project.
+
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100
+
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Q
+
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+
+ROOT CAUSE ANALYSIS: 1. Fluid introduced post injector assembly Primary RCH RCH4.1: 1.4.2: 2.1. Primary R CH RCH3: 1, 2, 3, 4, 5, 6, 7.
+ROOT CAUSE ANALYSIS: Fluid introduced post injector assembly Primary RCH RCH4.1: Functional Bench Fluid - Not RCHRCH4 .2: O-ring lubrication -> O- ring lubrication.
+
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803)
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+
+EFFECT CONFIRMATION: N-Heptane was used to remove orange/brown residue-causing contaminant.
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+
+FOLLOW UP ACTION:  Thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis)
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+PROBLEM DESCRIPTION:  RR4 US BB / RR5 US / RR6 US BB). RR3 US BB, RR4US BB, and RR5US BB. RR6USBB, RR7US BB and RR8USBB.
+PROBLEM DESCRIPTION:  RR4 US BB / RR5 US / RR6 US BB). RR3 US BB, RR4US BB, and RR5US BB. RR6USBB, RR7US BB and RR8USBB.
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again)
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again)
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again).
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again).
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again)
+
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used for application ECUs but not for serial ECU samples. The problem has been fixed and the ECU is working normally.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+
+COUNTERMEASURES: Software update planned for 31st of July. All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. All other BMW projects are not affected.
+
+EFFECT CONFIRMATION: Deactivation of anti jerk function) in an affected calibration variant in B88 to check if the flash process works. Deactivation of copying process and crosscheck if theflash process works in combination with activated anti jerkfunction is working.
+
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1  21.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21 08: C00 SW will replace B88.
+FOLLOW UP ACTION: Upd 1.21.08: C00 SW is replacing B88 in all car variants. Software update planned for 31st of July . - B88 with calibration workaround.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7° to 69,0°O PV parts (spec allow 70°+25°)
+
+CURRENT CONDITION: Out of specification spray angle for DDU transfer PV parts, Specification allows 70°+25°, parts observed as low as 36° Situation pertains to both GM and H
+
+TARGET CONDITION: All parts produced within 70°+25° specification
+
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components Texeido) resulted in the update of certain LH print dimensions to reduce leak failures.
+ROOT CAUSE ANALYSIS: NPN components Texeido and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures.
+
+COUNTERMEASURES: The final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum recessedvalue (actual values below)
+COUNTERMEASURES: Final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum recessedvalue (actual values below)
+
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+
+
+
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. When: On Dec.5th.2018, CAF C Q3 found a piece of the vehicle stuck open.
+PROBLEM DESCRIPTION: VB: Asimco Beijing Picture 1 2 - Containment action: Dec.10th. 2018:
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. VB supplier: Asimco Beijing
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+
+
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line 
+. B. Find Root cause of Problem / Issue
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B 
+. Find Root cause of Problem / Issue
+
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pcs  mixed in with good parts. Cause 2: The part was not working properly. Cause 3: The parts were mixed together.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES: Supplier update the Non-confirmation control procedure, debug part must be scrap and mark with red marking. - Done 2:
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance, all chip are completely wiped out.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA 
+. Expand the this lesson learn to other VB supplier.
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier 
+.
+
+PROBLEM DESCRIPTION: This leads to a sporadic dropout of Message ESP21. triggers toggling of vs SAE (raw value of vehicle speed) This leads
+PROBLEM DESCRIPTION: This leads to a sporadic dropout of Message ESP21 and triggers toggling of vs SAE (raw value of vehicle speed) This leads
+
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+
+TARGET CONDITION: If failure is on VT side define timing for problem solution (SW correction) and allign it with overall SW timing for SE1500/SE1550, depending on severity of the problem
+
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) ASG 2 .2 .1 (Rx): Message can ESP 21 XIX E3v_ACanFD ICas(TX), ICAS  ICAS( TX),ICAS ( TX) ICas (TX),ICas (US),ICA (US) ICA (UK),ICAM (UK
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+
+COUNTERMEASURES: The car is being tracked via VW ASG 2.2 Project PAIL Al #182. Tracking is done via VWASG2.2 project PAIL al #182, which is a joint effort between VW and Audi.
+COUNTERMEASURES: The car is being tracked via VW ASG 2.2 Project PAIL Al #182. Tracking is done via VWASG2.2 project PAIL al #182, which is a joint effort between VW and Audi.
+COUNTERMEASURES: The car is being tracked via VW ASG 2.2 Project PAIL Al #182. Tracking is done via VWASG2.2 project PAIL al #182, which is a joint effort between VW and Audi.
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. As there are no technical problems in VT deliverables the created I
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. As there are no technical problems in VT deliverables the created I
+
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables a lessons learned on VT side could not
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables a lessons learned on VT side could not

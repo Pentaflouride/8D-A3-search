@@ -1,0 +1,282 @@
+
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV. dynamic lean shift. failure observed In RSG E-10 test bench
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift. failure observed In RSG E-10 test bench
+
+CURRENT CONDITION: 200M Audit: 47362 = -10 .1%, 47371 = -6.2%, 47384 =  6.1% 300M audit: 4742 2= - 6.7%, 47421 = -3.
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6 .2%, 47384 = - 6.1% 300M audit: 4742 2= -6.7%, 47421 = -3.3
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47384 = - 6.1% 300M audit: 4742 2= -5.7%, 47421 = -3.3
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47384 = - 6.1% 300M audit: 4742 2= -6, 47421 = -3.3%, 4
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47384 = - 6.1% 300M audit: 4742 2= -5.7%, 47421 = -3%, 4
+
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+
+ROOT CAUSE ANALYSIS: RCH2 - Deka 10. design and process. variation introduces inherent variability, resulting in isolated occurrences
+
+COUNTERMEASURES: Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+COUNTERMEASURES: Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+COUNTERMEASURES: Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift. The analysis shows a capability of 1.27 to the
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift. The analysis shows a capability of 1.27 to the
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift. The analysis shows a capability of 1 .27 to
+
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19- 07.). @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+PROBLEM DESCRIPTION: BMW complained first issues: 07/2018 (19.07). @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.). @plant Dingolfing (Hr. Habold, MUC) Failed at test step System leak test Service 31 ID 0x301
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+PROBLEM DESCRIPTION: Failed at test step: System leak test. BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28 09.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+
+EFFECT CONFIRMATION: Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+EFFECT CONFIRMATION: Software update in place since I-Step 19-3-510. Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+EFFECT CONFIRMATION: Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+
+
+
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS $22 in Roll &Brake process of CN7 vehicle
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS $22 in Roll &Brake process of CN7 vehicle
+
+CURRENT CONDITION: Current $01A0 in UDS $22. service D is defined by '5' Lever Switch Displayed via GDS. before changing
+
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22
+
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled
+
+COUNTERMEASURES: Service spec will be reviewed with customer requirement even the project is not pilot. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project. System requirement review based on customer requirement will be performed.
+COUNTERMEASURES: Service spec will be reviewed with customer requirement. even the project is not pilot. Every release spec and SW matching will be checked based on canceled RO in old LIMAS used project
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+COUNTERMEASURES: System requirement review based on customer requirement will be performed, and this strategy was shared throughout the meeting
+COUNTERMEASURES: Service spec will be reviewed with customer requirement. even the project is not pilot. Every release spec and SW matching will be checked based on canceled RO in old LIMAS used project
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+COUNTERMEASURES: Service spec will be reviewed with customer requirement. even the project is not pilot. Every release spec and SW matching will be checked based on canceled RO in old LIMAS used project
+COUNTERMEASURES: UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+COUNTERMEASURES: System requirement review based on customer requirement will be performed, and this strategy was shared throughout the meeting
+COUNTERMEASURES: System requirement review based on customer requirement will be performed, and this strategy was shared throughout the meeting
+COUNTERMEASURES: System requirement review based on customer requirement will be performed, and this strategy was shared throughout the meeting
+
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100 cycles
+
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Qd +4/-4% Shift from baseline TP7072 - ER1149 (WO#M123-02), TP7363 - ER 1150
+
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. post soak injector returned to nominal flow values
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. post soak injector returned to nominal flow values
+
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application J Copeland, due 31 Mar 2022
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant. B. Hindman, due: 6 May 2022.
+EFFECT CONFIRMATION: Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant- Resp B Hindman, due 6 May 2022
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant. B. Hindman, due: 6 May 2022.
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant. Hindman, due: 6 May 2022.
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant. B. Hindman, due: 6 May 2022.
+
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp J Copeland COMPLETE 3/14/2022
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp J Copeland COMPLETE 3/14/2022
+FOLLOW UP ACTION: N-Heptane sample from cell 9.. Thermal exposure to see if orange/brown residue remains. Change test fluid/filter in cell 9 (after test above)
+FOLLOW UP ACTION: Change test: fluid/filter in cell 9 (after test above): Resp: J Copeland- COMPLETE- 3/14/2022
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp. J Copeland COMPLETE 3/14/2022
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp J Copeland COMPLETE 3/14/2022
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp J Copeland COMPLETE 3/14/2022
+
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood
+PROBLEM DESCRIPTION: Problem only with D-sample ECU together with 18-07-530 B88 software and affected datasets
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue. @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue. @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood
+
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+
+COUNTERMEASURES: All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. B88 with calibration workaround already done by BMW on13th of July
+
+EFFECT CONFIRMATION: addresses A0045554 / A0055554 - A0065554 - A0075554 must have the value "5E" - Check of ECU returns from customer BMW caused by a flash lock during end of line test.
+
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.08.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.08.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.08.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7° to 69,0°O PV parts (spec allow 70°+25°)
+
+CURRENT CONDITION: Out of specification. spray angle for DDU transfer PV parts. Specification allows 70°+25° parts observed as low as 36°
+
+TARGET CONDITION: All parts produced within 70°+25° specification
+
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH), (NPN components- Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components- Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures
+
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec
+
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+
+
+
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down injector.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down injector.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. The chips from VB were found in the seat sealing area.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. The chips from VB were found in the seat sealing area.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. The chips from VB were found in the seat sealing area after tear down.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB were found in the seat sealing area after tear down.
+
+
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line 
+. B. Find Root cause of Problem / Issue
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B 
+. Find Root cause of Problem / Issue
+
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53 29mm
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+
+COUNTERMEASURES: Supplier add error-proof dedicated fixture to fix the length of tool with correct position. Supplier update the Non-confirmation control procedure.
+COUNTERMEASURES: Supplier add error-proof dedicated fixture to fix the length of tool with correct position. Supplier update the Non-confirmation control procedure.
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier add error-proof dedicated fixture to fix the length of tool with correct position. Supplier update the Non-confirmation control procedure.
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance, 200% visual inspection in supplier side and last one month with safe launch
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance, 200% visual inspection in supplier side and last one month with safe launch
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance. all chip are completely wiped out
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance. all chip are completely wiped out
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance, 200% visual inspection in supplier side and last one month with safe launch
+
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA 
+. Expand the this lesson learn to other VB supplier.
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier 
+.
+
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500. This leads to a sporadic dropout of Message ESP21 and triggers toggling of vs SAE.
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500. This leads to a sporadic dropout of Message ESP21 and triggers toggling of vs SAE.
+
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure (VT side or VW side)
+
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message Here
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message Here
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18 03.2022.
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18.03.2022.
+
+EFFECT CONFIRMATION: As there are no technical problems in VT deliverables, the created IMS Issue 14600526 will be used for documentation of all performed actions
+EFFECT CONFIRMATION: As there are no technical problems in VT deliverables, the created IMS Issue 14600526 will be used for documentation of all performed actions
+
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables, a lessons learned on VT side could not be performed
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables, a lessons learned on VT side could not be performed

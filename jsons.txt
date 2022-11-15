@@ -1,3 +1,347 @@
-BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There're no specific OBD failure code
-Target is to bring F1_testfails to zero % at customer plants. Target Customer requirement delivered at Nu ATK project: $01A0 in UDS $22 service D
-All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+Cut dynamic textrank
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench mechanical
+CURRENT CONDITION: Audit: 47362 = -10.1. Specification (+5% / -3%) 200
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+ROOT CAUSE ANALYSIS: Dynamic lean shift occurs due to an increase in opening time, and variation in opening times is seen part to part
+COUNTERMEASURES: J Hatfield Status Complete. - +8% from nominal results in capability of CpK = 1.27. (slide 16)
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+ROOT CAUSE ANALYSIS: First part was NTF cleanliness analysis, tbd CW 40
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+
+PROBLEM DESCRIPTION: CN7/CN7a. product SIM3K-541, SW version 6VA600.. HMMA QC reported that '5' instead of 'D' was displayed for the select lever
+CURRENT CONDITION: Roll and brake test in customer plant cannot be passed due to wrong gear information from TCU. Lever Switch Displayed via GDS before changing
+TARGET CONDITION: Service D is defined by '8' at Nu ATK project.
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Q
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+ROOT CAUSE ANALYSIS: Mineral oil confirmed to match residue observed within stuck injectors. IN-062802/IN-06 2803 (cell 6/cell 7)
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+CURRENT CONDITION: One cycle. resume command of the controller. enable the flash protection during start up and locked the ECU
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+ROOT CAUSE ANALYSIS: Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples
+COUNTERMEASURES: Software update planned for 31st of July. All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue
+EFFECT CONFIRMATION: Deactivation of anti jerk function) in an affected calibration variant in B88 to check if the flash process works
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7ฐ to 69,0ฐO PV parts (spec allow 70ฐ+25ฐ)
+CURRENT CONDITION: Out of specification. spray angle for DDU transfer PV parts Specification allows 70ฐ+25ฐ parts observed as low as 36ฐ
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification
+ROOT CAUSE ANALYSIS: NPN components Texeido and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures.
+COUNTERMEASURES: The final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum recessedvalue (actual values below)
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B. Find Root cause of Problem / Issue
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: This leads to a sporadic dropout of Message ESP21. triggers toggling of vs SAE (raw value of vehicle speed) This leads
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+TARGET CONDITION: If failure is on VT side, define timing for problem solution (SW correction) and allign it with overall SW timing for SE1500/SE1550, depending on severity of the problem
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX) Message: CAN- ESP_21_XIX_E3V_ACANFD- ICAS(TX)- ICAS (TX), CAN (TX), CAN ( TX), ESP (TX), CAN (US), ESP (US) IC
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. As there are no technical problems in VT deliverables the created I
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation
+
+Uncut dynamic no textrank
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench mechanical
+CURRENT CONDITION: Audit: 47362 = -10.1. Specification (+5% / -3%) 200
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+ROOT CAUSE ANALYSIS:  Dynamic lean shift occurs due to an increase in opening time, and variation in opening times is seen part to part. DynamicLeanShift.com will feature more videos from CNN.com in the coming weeks. Click here for more videos.
+COUNTERMEASURES: J. Hatfield, Status: Complete - +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec Shift from Baseline Shift from Nominal
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+PROBLEM DESCRIPTION: System leak test failed at test step: system leak test. System leak test was a failure of the test step.
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants ( using SCR system).
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+ROOT CAUSE ANALYSIS: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40)
+COUNTERMEASURES: Test pressure to be increased from 5.5bar to 6.5 bar. Alignment with customer is to increase the current test pressure of 5. 5bar to
+EFFECT CONFIRMATION: Less than 1 percent of BMWs closed by customer fail to make it to the road.
+
+PROBLEM DESCRIPTION:  CN7/CN7a product SIM3K-541, SW version 6VA600. HMMA QC reported that '5' instead of 'D' was displayed for the select lever switch information via UDS $22 in Roll &Brake
+CURRENT CONDITION: Roll and brake test in customer plant cannot be passed due to wrong gear information from TCU. Lever Switch Displayed via GDS before changing
+TARGET CONDITION: Service D is defined by '8' at Nu ATK project.
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+COUNTERMEASURES: The RE Lesson Learned System Final is published in its final form. The final version of this article includes the detailed discussion result for the RE Lessons Learned System. Refer to the attached mail for the detail discussion result. The full final version is available in the following formats: English, German, French, Spanish, Italian, Portuguese, Spanish and English. For more information on the RE system, visit the RE website. For the full version of the final, see the RE site: http://www.re.org.uk/re/learning/system-final.
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Q
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+ROOT CAUSE ANALYSIS:  Mineral oil confirmed to match residue observed within stuck injectors IN-062802/IN-06 2803 (cell 6/cell 7) instructs technician to lightly lubricate upper injector oring prior to insertion in test head. Fluid introduced post injector assembly Primary RCH RCH4.1: Functional Bench Fluid - Not RCH 4.2: O-
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application (see verbiage in IN-062802/IN-62803).
+EFFECT CONFIRMATION:  Repeat thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contamin
+FOLLOW UP ACTION:  thermal exposure of sample of N-Heptane from cell 9 to see if orange/brown residue remains (try to get enough for FTIR analysis).
+PROBLEM DESCRIPTION: Re-programming of the ECU (MSD87 - 12 cylinder) is not possible anymore for some dataset variants of the SW B88.
+CURRENT CONDITION: One cycle resume command of the controller enable the flash protection during start up and locked the ECU. SW update planned for SW C00 in CW31 (activation of anti jerk is possible again)
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+ROOT CAUSE ANALYSIS:  Debugging showed an issue that occurs due to copy process of the flash memory. This is necessary for application ECUs but not for serial ECU samples. The issue was caused by the copy process being used to write to flash memory, not to serial memory. The problem was fixed by restarting the device and re-writing the code.
+COUNTERMEASURES: Software update planned for 31st of July. All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. All other BMW projects are not affected.
+EFFECT CONFIRMATION: Deactivation of anti jerk function) in an affected calibration variant in B88 to check if the flash process works. Deactivation of copying process and crosscheck if theflash process works in combination with activated anti jerkfunction is working.
+FOLLOW UP ACTION: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround Upd 1.21.08: C00 SW will replace B88.
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7ฐ to 69,0ฐO PV parts (spec allow 70ฐ+25ฐ)
+CURRENT CONDITION: Out of specification spray angle for DDU transfer PV parts, Specification allows 70ฐ+25ฐ, parts observed as low as 36ฐ Situation pertains to both GM and H
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification
+ROOT CAUSE ANALYSIS: NPN components Texeido and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures.
+COUNTERMEASURES: The final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum recessedvalue (actual values below)
+EFFECT CONFIRMATION: Design has been finalized with supplier 94% FPY for poppet Mass Flow Test indicated design update successful.
+
+PROBLEM DESCRIPTION: Chips from VB were found in the seat sealing area after tear down injector on Dec. 11st. Asimco Beijing is the supplier of VB.
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B. Find Root cause of Problem / Issue
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 1: One pc of debug parts was mixed with good parts. Cause 2: It was a bad mix of parts.
+COUNTERMEASURES:  debug part must be scrap and mark with red marking. - Done 2:Supplier update. Non-confirmation control procedure, scrap and red mark.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. All chip are completely wiped out.
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: This leads to a sporadic dropout of Message ESP21. triggers toggling of vs SAE (raw value of vehicle speed) This leads
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+TARGET CONDITION: If failure is on VT side define timing for problem solution (SW correction) and allign it with overall SW timing for SE1500/SE1550, depending on severity of the problem
+ROOT CAUSE ANALYSIS: ASG 2.2.2 (RX): Message CAN ESP_21_XIX_E3V_ACANFD ICAS(TX) ICAS (TX) CAN (TX): CAN ( TX) ESP (TX), CAN (US), ESP (US) IC ASG (US, US, US) IC (TX, USA), IC ( TX, USA, US), IC(TX, US).
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place on 18.03.2022. VT has no technical problem in deliverables/current SW Version!
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. As there are no technical problems in VT deliverables the created I
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables a lessons learned on VT side could not
+
+Cut, no textrank, dynamic
+PROBLEM DESCRIPTION: Injectors were manufactured in Prototype Services May 29, 2019. WO# K150-08, Deka 10 TP1008 DV dynamic
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+ROOT CAUSE ANALYSIS: RCH2 - Deka 10. design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+PROBLEM DESCRIPTION:  BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS: $22
+CURRENT CONDITION: Current $01A0 in UDS $22 service D is defined by '5' Lever Switch Displayed via GDS before changing
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22 service D is defined by
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+COUNTERMEASURES: Service spec will be reviewed with customer requirement even the project is not pilot. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project. The test with GDS mobile shall be performed and this test will be performed based on customer requirement 5 UDS $22 & $2F service test to be performed by the G-SCAN tool G DS mobile in the step of final validation. Refer to the attached e-mail for discussion result GDS ภiz๋วั PCU มg Learned System Final Test ็x.๑ ฐOAI 6
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Q
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. Post soak injector returned to nominal flow values
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp. J Copeland COMPLETE 3/14/2022
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue. @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU Only D-samples (serial parts) are affected
+COUNTERMEASURES: All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. B88 with calibration workaround already done by BMW on13th of July
+EFFECT CONFIRMATION: addresses A0045554 / A0055554 - A0065554 - A0075554 must have the value "5E" - Check of ECU returns from customer BMW caused by a flash lock during end of line test
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround.
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7ฐ to 69,0ฐO PV parts (spec allow 70ฐ+25ฐ)
+CURRENT CONDITION: Out of specification. spray angle for DDU transfer PV parts Specification allows 70ฐ+25ฐ parts observed as low as 36ฐ
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components- Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB found in the seat sealing area after tear down injector.
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B. Find Root cause of Problem / Issue
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+EFFECT CONFIRMATION: 200% visual inspection in supplier side and last one month with safe launch Trial run
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500. This leads to a sporadic dropout of Message ESP21
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure: (VT side or VW side)
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. An investigation on a buffer behavior of ElektroBit deliverable
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation
+
+uncut, dynmaic, no text rank
+PROBLEM DESCRIPTION: Injectors were manufactured in Prototype Services May 29, 2019. WO# K150-08, Deka 10 TP1008 DV dynamic
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+TARGET CONDITION: Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+ROOT CAUSE ANALYSIS: RCH2 - Deka 10 design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation. Dynamic lean shift occurs due to an increase in opening time. Opening time variation is a resultant of variation in wear severity at the sealing interface.
+COUNTERMEASURES: Test bench RSG E-10 mechanical durability from nominal vs. baseline, Resp. J. Hatfield, Status: Complete. +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower Limit Cpk Test Samples Out of Spec.
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+FOLLOW UP ACTION: Reference 8D ES191216231144 for follow up actions
+PROBLEM DESCRIPTION:  BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure. BMW decided to send the cars out.
+TARGET CONDITION: Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. Is there any connection between failure re-occurrence and time between first and second?
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Passive monitoring ongoing on customer site.
+
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever switch information via UDS $22. Containment action 9,124EA to be reprogrammed in HMMA plant.
+CURRENT CONDITION: Current $01A0 in UDS $22 service D is defined by '5' Lever Switch Displayed via GDS before changing
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22 service D is defined by
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+COUNTERMEASURES: Service spec will be reviewed with customer requirement even the project is not pilot. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project. The test with GDS mobile shall be performed and this test will be performed based on customer requirement 5 UDS $22 & $2F service test to be performed by the G-SCAN tool G DS mobile in the step of final validation. Refer to the attached e-mail for discussion result GDS ภiz๋วั PCU มg Learned System Final Test ็x.๑ ฐOAI 6
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten : history deliver to further project via UDS test method with GDS mobile
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Q
+TARGET CONDITION: - Product functionality remains post air-air thermal shock testing
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. Post soak injector returned to nominal flow values. Fluid introduced post injector assembly Primary.
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application. Resp. J. Copeland, due: 31 Mar 2022 > IN-96627953 in eSign for approval (esign 50324386
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above). Resp. J. Copeland COMPLETE 3/14/2022 -Filter and fluid changed again in Cell 9 with re-sample taken on 4/27/22 (see
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88 software. Key is not writeable with any tooling anymore.
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd. 13th of July: Customer updated all data variants of the SW B88 with calibration workaround.
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues (immobilizer sync & reprogramming).
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU Only D-samples (serial parts) are affected. A new ECU with Lauterbach access has to be built up for debugging.
+COUNTERMEASURES: All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. B88 with calibration workaround already done by BMW on13th of July COO with deactivation of root cause (memory copying process) Software update planned for 31st of July.
+EFFECT CONFIRMATION: addresses A0045554 / A0055554 - A0065554 - A0075554 must have the value "5E" - Check of ECU returns from customer BMW caused by a flash lock during end of line test. Deactivation of
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround.
+PROBLEM DESCRIPTION: Spray angle ranging from 36,7ฐ to 69,0ฐO PV parts (spec allow 70ฐ+25ฐ)
+CURRENT CONDITION: Out of specification spray angle for DDU transfer PV parts, Specification allows 70ฐ+25ฐ, parts observed as low as 36ฐ Situation pertains to both GM and H
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures. This resulted in a valve that was more recessed inside the LH than normal NPN production parts.
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec. The final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum Recessed value (actual values below)
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2 with results equivalent to production parts from NPN. Design has been finalized with supplier 94% FPY for poppet Mass Flow Test.
+
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB found in the seat sealing area after tear down injector.
+
+TARGET CONDITION: Confirm the root cause in supplier side and implement prevention action in production line. B. Find Root cause of Problem / Issue
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53.29mm. Cause 3: Visual check WI did not clearly specify this defect location and boundary samples.
+COUNTERMEASURES: Supplier add error-proof dedicated fixture to fix the length of tool with correct position. Supplier update the Non-confirmation control procedure, debug part must be scrap and mark with red marking.
+EFFECT CONFIRMATION: 200% visual inspection in supplier side and last one month with safe launch. Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance
+FOLLOW UP ACTION: Expand the visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500. This leads to a sporadic dropout of Message ESP21
+CURRENT CONDITION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 Delivery of SW SE1500 to customer VW stopped
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure (VT side or VW side) If failure is on VT side define timing for problem solution
+ROOT CAUSE ANALYSIS:  Debugging Session identifies that the restbus simulation, delivery from customer VW, is the main root cause for toggling of the ESP_21 Message. In the regular/correct case would be here that a message transfer every 20ms is present.
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18.03.2022. Tracking is done via VW ASG 2.2 Project PAIL Al #182.
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. An investigation on a buffer behavior of ElektroBit deliverable
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables a lessons learned on VT side could not
+
+cut static no text rank
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift. failure observed In RSG E-10 test bench
+CURRENT CONDITION: 200M. Audit 47362 = -10.1%. 47371 = -6.2%. 47384 = - 6.1%. 300M. audit 4742 2= -5.7%. 47421 = -3
+TARGET CONDITION: Fourteen of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10.
+ROOT CAUSE ANALYSIS: RCH2 - Deka 10. design and process. variation introduces inherent variability, resulting in isolated occurrences
+COUNTERMEASURES: Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+EFFECT CONFIRMATION: AMC PV6 (L062-05), PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift
+FOLLOW UP ACTION: Reference 8D- ES191216231144 for follow-up actions
+PROBLEM DESCRIPTION: BMW complained. first issues: 07/2018 (19.07.) @plant Dingolfing (Hr Habold, MUC). There's no specific OBD failure code
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+TARGET CONDITION: The aim is to bring F1_testfails to zero per cent at customer plants
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+FOLLOW UP ACTION: CNNcom will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS: $22
+CURRENT CONDITION: Current $01A0 in UDS $22. service D is defined by '5' Lever Switch Displayed via GDS. before changing
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled
+COUNTERMEASURES: System requirement review based on customer requirement will be performed, and this strategy was shared throughout the meeting
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten will deliver to further project via UDS test method with GDS mobile.
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100 cycles
+CURRENT CONDITION: Deka 7: transfer for CGQ Thermal Shock test S1331 500 Shocks
+TARGET CONDITION: Product functionality remains post air-air thermal shock testing. Product functionality remains after air- air thermal shock test.
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. Post soak injector returned to nominal flow values
+COUNTERMEASURES: Create Procedure/Instruction document for Cell 9, including statements about o-ring lube application
+EFFECT CONFIRMATION: Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant- Resp B Hindman, due 6 May 2022
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above): Resp J Copeland COMPLETE 3/14/2022
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue. @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues.
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU
+COUNTERMEASURES: All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. B88 with calibration workaround already done by BMW on13th of July
+EFFECT CONFIRMATION: addresses A0045554 / A0055554 - A0065554 - A0075554 must have the value "5E" - Check of ECU returns from customer BMW caused by a flash lock during end of line test.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants. - C00 Software update planned for 31st of July
+PROBLEM DESCRIPTION: O PV parts (spec allow 70ฐ+25ฐ) Spray angle ranging from 36,7ฐ to 69,0ฐ.
+CURRENT CONDITION: Out of specification. spray angle for DDU transfer PV parts. Specification allows 70ฐ+25ฐ parts observed as low as 36ฐ
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification. All parts produced in accordance with 70ฐ-25ฐ specifications.
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components- Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2, with results equivalent to production parts from NPN
+FOLLOW UP ACTION: CNNcom will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB found in the seat sealing area after tear down injector.
+CURRENT CONDITION: CNNcom will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week
+TARGET CONDITION: A. Confirm the root cause in supplier side and implement prevention action in production line
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53
+COUNTERMEASURES: Supplier: add error-proof dedicated fixture to fix the length of tool with correct position
+EFFECT CONFIRMATION: Trial run: 10pcs chip samples and 50pcs normal part to verify the brush performance, 200% visual inspection in supplier side and last one month with safe launch
+FOLLOW UP ACTION: The visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500.. This leads to a sporadic dropout of Message ESP21 and triggers toggling of vs SAE
+CURRENT CONDITION: Cannibalization of VW's SW SE1500 has stopped. Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 stopped.
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure (VT side or VW side)
+ROOT CAUSE ANALYSIS: Debugging Session identifies that the restbus simulation delivery from customer VW is the main root cause for toggling of the ESP_21 Message
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables, a lessons learned on VT side could not be performed
+
+uncut static no textrank
+PROBLEM DESCRIPTION: WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench mechanical durability per S1297 Injectors were manufactured in Prototype Services May 29, 2019. Configuration: 12
+CURRENT CONDITION: 200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47384 = - 6.1% 300M audit: 4742 2= -5.7%, 47421 = -3.3
+TARGET CONDITION: Fourteen of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10.
+ROOT CAUSE ANALYSIS: RCH2 - Deka 10 design and process variation introduces inherent variability, resulting in isolated occurrences dynamic lean shift observation. Dynamic lean shift occurs due to an increase in opening time, and variation inopening time is seen part to part.
+COUNTERMEASURES: Test bench RSG E-10 mechanical durability from nominal vs. baseline, Resp. J. Hatfield, Status: Complete. +8% from nominal results in capability of CpK = 1.27 (slide 16) Upper Limit Lower
+EFFECT CONFIRMATION:  AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift. The analysis shows a capability of 1.27 to the
+FOLLOW UP ACTION:  Reference 8D ES191216231144 for follow-up actions. For more information, visit: http://www.cnn.com/2013/01/07/18/science/environment/top-10-top-
+PROBLEM DESCRIPTION:  BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test).
+CURRENT CONDITION: All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure. BMW decided to send the cars out.
+TARGET CONDITION: The aim is to bring F1_testfails to zero per cent at customer plants. Failure root cause has to be understood and failure occurrence must be eliminated.
+ROOT CAUSE ANALYSIS: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and
+COUNTERMEASURES: Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430.
+EFFECT CONFIRMATION: Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Passive monitoring ongoing on customer site.
+FOLLOW UP ACTION: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.
+PROBLEM DESCRIPTION: HMMA QC reported that '5' instead of 'D' was displayed for the select lever switch information via UDS $22. Containment action 9,124EA to be reprogrammed in HMMA plant.
+CURRENT CONDITION: Current $01A0 in UDS $22 service D is defined by '5' Lever Switch Displayed via GDS before changing. Roll and brake test in customer plant cannot be passed due to wrong gear information.
+TARGET CONDITION: Customer requirement delivered at Nu ATK project $01A0 in UDS $22 service D is defined by '8' Select Lever Switch Displayed via GDS after changing Manual Mode 12.
+ROOT CAUSE ANALYSIS: In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference for UDS Why for not used to review
+COUNTERMEASURES: System requirement review based on customer requirement will be performed and this strategy was shared throughout the meeting. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project.
+EFFECT CONFIRMATION: The select lever position information via UDS $22 is normally displayed as "D" with modified SW (6VA610)
+FOLLOW UP ACTION: Yokoten will deliver to further project via UDS test method with GDS mobile.
+PROBLEM DESCRIPTION: Injectors mechanically inoperable after 400 cycles of thermal shock. functional issues noted since 100 cycles. Containment Action - NPN - within Validation.
+CURRENT CONDITION: Deka 7 transfer for CGQ Thermal Shock test S1331 500 Shocks; Qd +4/-4% Shift from baseline TP7072 - ER1149 (WO#M123-02), TP7363 - ER 1150
+TARGET CONDITION: Product functionality remains post air-air thermal shock testing. Product functionality remains after air- air thermal shock test.
+ROOT CAUSE ANALYSIS: Injector M085K27336 was sumberged in n-Heptane for 24 hours. Post soak injector returned to nominal flow values. Fluid introduced post injector assembly Primary.
+COUNTERMEASURES:  Create Procedure/Instruction document for Cell 9 including statements about o-ring lube application. Resp. J. Copeland, due: 31 Mar 2022 > IN-96627953 in eSign for approval (esign 50324386)
+EFFECT CONFIRMATION:  Thermal exposure of sample of n-Heptane from Cell 9 to verify removal of orange/brown residue-causing contaminant. Resp. B. Hindman, due: 6 May 2022.
+FOLLOW UP ACTION: Change test fluid/filter in cell 9 (after test above). Resp. J. Copeland COMPLETE 3/14/2022 -Filter and fluid changed again in Cell 9 with re-sample taken on 4/27/22 (see slide
+PROBLEM DESCRIPTION: BMW (Rolls Royce) communicated an issue @plant Goodwood. Problem only with D-sample ECU together with 18-07-530 B88 software. Key is not writeable with any tooling anymore.
+CURRENT CONDITION: Only SW variants which have an activated anti jerk function are affected. BMW Customer part#: 9453018-01 (SW 9SP9B88S) Upd. 13th of July: Customer updated all data variants of the SW B
+TARGET CONDITION: Goal is to analyze the ECU hardware and the affected B88 software and the calibration data to fix both issues.
+ROOT CAUSE ANALYSIS: Some flash containers of SW version B86 to B88 show this behavior. Trigger is "anti jerk" function that activates flash protection and it is not possible to reprogram the ECU Only D-samples (serial parts) are affected.
+COUNTERMEASURES: All MSD87 12 cylinder SW variants since 2005 (SOP) are affected with this issue. B88 with calibration workaround already done by BMW on13th of July COO with deactivation of root cause (memory copying process) Software update planned
+EFFECT CONFIRMATION: addresses A0045554 / A0055554 - A0065554 - A0075554 must have the value "5E" - Check of ECU returns from customer BMW caused by a flash lock during end of line test.
+FOLLOW UP ACTION: 21.08: C00 SW is replacing B88 in all car variants - C00 Software update planned for 31st of July. - B88 with calibration workaround.
+PROBLEM DESCRIPTION: O PV parts (spec allow 70ฐ+25ฐ) Spray angle ranging from 36,7ฐ to 69,0ฐ.
+CURRENT CONDITION: Out of specification spray angle for DDU transfer PV parts, Specification allows 70ฐ+25ฐ, parts observed as low as 36ฐ Situation pertains to both GM and HMC parts produced for transfer PV, but not to Ford parts. No
+TARGET CONDITION: All parts produced within 70ฐ+25ฐ specification. All parts produced in accordance with 70ฐ-25ฐ specifications.
+ROOT CAUSE ANALYSIS: Supplier change for DDU lower housing (LH) (NPN components Texeido) and obsolete machinery used to produce the part resulted in the update of certain LH print dimensions to reduce leak failures. This resulted in a valve that was more
+COUNTERMEASURES: Reducing the amount the valve was recessed was found to mitigate the risk of cone angle of spec. The final nominal value chosen was between the production maximum recessed value and the Loop 1 minimum Recessed value (actual values below)
+EFFECT CONFIRMATION: 100% of parts passed PV Loop 2 with results equivalent to production parts from NPN. Design has been finalized with supplier 94% FPY for poppet Mass Flow Test.
+FOLLOW UP ACTION: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.
+PROBLEM DESCRIPTION: CAF CQ3 found one piece injector stuck open during vehicle testing. Chips from VB found in the seat sealing area after tear down injector.
+CURRENT CONDITION: CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of New York for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots.
+TARGET CONDITION: A. Confirm the root cause in supplier side and implement prevention action in production line. B. Find Root cause of Problem / Issue and implement preventative action.
+ROOT CAUSE ANALYSIS: One pcs of debug part was mixed into good parts by debug technician. Cause 2: Incorrect the length of drilling tool during debug Repeat the same failure mode with incorrect length 53.29mm. Cause 3: Visual check WI did not clearly specify
+COUNTERMEASURES: Supplier add error-proof dedicated fixture to fix the length of tool with correct position. Supplier update the Non-confirmation control procedure, debug part must be scrap.
+EFFECT CONFIRMATION: Trial run 10pcs chip samples and 50pcs normal part to verify the brush performance. 200% visual inspection in supplier side and last one month with safe launch. - Done Dec.25th.2018 No chips were found after 33680
+FOLLOW UP ACTION: The visual defect lesson learn into PFMEA. Expand the this lesson learn to other VB supplier.
+PROBLEM DESCRIPTION: Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1500. This leads to a sporadic dropout of Message ESP21 and triggers toggling of vs SAE.
+CURRENT CONDITION: Cannibalization of VW's SW SE1500 has stopped. Sporadic CAN frame dropouts existing in Pre-SW-versions of SE1 stopped.
+TARGET CONDITION: Identify the root cause of CAN frame / ESP21 dropouts and the location of the failure (VT side or VW side) If failure is on VT side define timing for problem solution (SW correction) and allign it with overall SW timing for
+ROOT CAUSE ANALYSIS:  Debugging Session identifies that the restbus simulation, delivery from customer VW, is the main root cause for toggling of the ESP_21 Message. In the regular/correct case, a message transfer every 20ms is present.
+COUNTERMEASURES: The failure is caused by VW Restbus simulation. A syncronisation with Customer will take place in regular "Technikrunde" on 18.03.2022. Tracking is done via VW ASG 2.2 Project PAIL Al
+EFFECT CONFIRMATION: IMS Issue 14600526 will be used for documentation of all performed actions. An investigation on a buffer behavior of ElektroBit deliverable SecOC will be handeled with this issue.
+FOLLOW UP ACTION: The failure is fully triggered/caused by VW Restbus simulation. As there are no technical problems in VT deliverables a lessons learned on VT side could not be performed. Also preventive Actions are not definable.

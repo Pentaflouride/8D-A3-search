@@ -1,0 +1,368 @@
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+
+
+inputs
+PROBLEM DESCRIPTION
+
+outputs
+The
+
+inputs
+CURRENT CONDITION
+
+outputs
+CURRE
+NT
+
+inputs
+TARGET CONDITION
+
+outputs
+TARGE
+T
+
+inputs
+ROOT CAUSE ANALYSIS
+
+outputs
+ROOT CA
+
+inputs
+COUNTERMEASURES
+
+outputs
+COUNTE
+R
+
+inputs
+EFFECT CONFIRMATION
+
+outputs
+EFFECT
+CON
+
+inputs
+FOLLOW UP ACTION
+
+outputs
+

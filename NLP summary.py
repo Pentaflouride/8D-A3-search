@@ -216,7 +216,13 @@ def main():
                     if val[0] == "PROBLEM DESCRIPTION" or val[0] == "TARGET CONDITION" or val[0] == "CURRENT CONDITION" or val[0] == "ROOT CAUSE ANALYSIS" or val[0] == "COUNTERMEASURES" or val[0] == "EFFECT CONFIRMATION" or val[0] == "FOLLOW UP ACTION":
                         g.write("\n")
                         a = model(val[1], False, 53)
-                        g.write(cut(a,l,u,val[0]))
+                        if len(a)<5:
+                            g.write(val[1])
+                        else:
+                            # uncut string
+                            # g.write(str(val[0] + ": " + a))
+                            # cut string
+                            g.write(cut(a,l,u,val[0]))
             i+=1
 
 if __name__=="__main__":
