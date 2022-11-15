@@ -1,0 +1,111 @@
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench.
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed in RSG E-10 test bench.
+200M Audit: 47362 = -10 .1%, 47371 = -6.2%,
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+RCH2 - Deka 10. design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete: - +8% from nominal
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+ AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench.
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed in RSG E-10 test bench.
+200M Audit: 47362 = -10 .1%, 47371 = -6.2%,
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+RCH2 - Deka 10. design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench.
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench.
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed in RSG E-10 test bench.
+200M Audit: 47362 = -10 .1%, 47371 = -6.2%,
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+RCH2 - Deka 10. design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete: - +8% from nominal
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield Status Complete: - +8% from nominal
+Test bench RSG E-10: mechanical durability from nominal vs baseline. Resp J Hatfield: Status Complete
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
+ AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+ AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+ AMC PV6 (L062-05) PV8 (L113-03) and PV9 (L209-03, L209-04) were analyzed for dynamic flow shift from nominal
+Reference 8D ES191216231144 for follow up actions
+ BMW complained first issues 07/2018 (19 07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+ BMW complained first issues 07/2018 (19.07) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+ BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr  Habold MUC). There's no specific O
+ BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC) There's no specific O
+ BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).
+ BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+ BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There's no specific O
+All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+All BMW plants (using SCR systems) are infected, also all variants. After some minutes the test can be repeated without the failure
+All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+All BMW plants (using SCR systems) are infected. After some minutes the test can be repeated without the failure
+Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28 09.09.2018, but pressure values are still in tolerance
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09  2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing
+Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+Software update in place since I-Step 19-3-510. Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+Software validation performed and passed. Six failed (rejected by customer) and 21 new pumps were used
+Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used
+
+HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS $22 in Roll &Brake process of CN7 vehicle
+HMMA QC reported that '5' instead of 'D' was displayed for the select lever. switch information via UDS $22 in Roll &Brake process of CN7 vehicle
+Current $01A0 in UDS $22 service D is defined by '5' Lever Switch Displayed via GDS before changing
+Customer requirement delivered at Nu ATK project $01A0 in UDS $22 service D is defined by
+In Nu ATK CVT Spec was only SWCN canceled Why Why Why Wrong managem spec and sw) wrong value was not set back value from $22 service Spec ewed was with not revi reference
+Service spec will be reviewed with customer requirement even the project is not pilot. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project. The test with GDS mobile shall be performed and this test will be performed based on customer requirement 5 UDS $22 & $2F service test to be performed by the G-SCAN tool G DS mobile in the step of final validation. Refer to the attached e-mail for discussion result GDS ÀizëÇÑ PCU Ág Learned System Final Test çx.ñ °OAI 6
+Service spec will be reviewed with customer requirement. even the project is not pilot. Every release spec and SW matching will be checked based on canceled RO in old LIMAS used project
+UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+UDS $22 & $2F service spec will be reviewed with customer requirement. even the project is not pilot
+Service spec will be reviewed with customer requirement even the project is not pilot. Every release, spec and SW matching will be checked based on canceled RO in old LIMAS used project. The test with GDS mobile shall be performed and this test will be performed based on customer requirement 5 UDS $22 & $2F service test to be performed by the G-SCAN tool G DS mobile in the step of final validation. Refer to the attached e-mail for discussion result GDS ÀizëÇÑ PCU Ág Learned System Final Test çx.ñ °OAI 6
+Service spec will be reviewed with customer requirement. even the project is not pilot. Every release spec and SW matching will be checked based on canceled RO in old LIMAS used project
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed In RSG E-10 test bench.
+WO# K150-08, Deka 10 TP1008 DV dynamic lean shift failure observed in RSG E-10 test bench.
+200M Audit: 47362 = -10 .1%, 47371 = -6.2%,
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+200M Audit: 47362 = -10.1%, 47371 = -6.2%, 47
+Twenty four of twenty-four injectors successfully pass test bench mechanical durability per S1297 in RSG E-10
+RCH2 - Deka 10. design and process variation introduces inherent variability, resulting in isolated occurrences of dynamic lean shift observation
+Review of defined dynamic tolerance vs system sensitivity to absolute flow. Determine injector flow shift capability in test bench
