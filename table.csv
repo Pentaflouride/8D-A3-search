@@ -1,0 +1,688 @@
+,input,output,output_length,input_length,percentage_decrease,model_name,time
+74,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence must be
+eliminated. Target is to
+bring F1_testf",110,145,0.2413793103448276,0.3_0.8_4_False_True,2.038548469543457
+44,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+must be eliminated.
+Target is",92,145,0.36551724137931035,0.3_0.6_3_True_True,1.4979941844940186
+92,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence must
+be eliminated. Target
+is to bring F1",104,145,0.2827586206896552,0.3_0.7_4_False_True,1.9338278770446777
+122,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+has to been
+eliminated. Target",93,145,0.3586206896551724,0.3_0.6_2_False_True,1.4042165279388428
+20,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence must
+be eliminated. Target
+is to bring F1",104,145,0.2827586206896552,0.3_0.7_4_True_True,1.7981908321380615
+86,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence has to been
+eliminated. Target is to
+bring F1_test",113,145,0.2206896551724138,0.3_0.8_2_False_True,1.9378166198730469
+104,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence has
+to been eliminated.
+Target is to bring F",107,145,0.2620689655172414,0.3_0.7_2_False_True,1.723390817642212
+128,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence must be
+eliminated. Target is to
+bring F1_testf",110,145,0.2413793103448276,0.3_0.8_4_False_True,2.0415396690368652
+50,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+has to been
+eliminated. Target",93,145,0.3586206896551724,0.3_0.6_2_True_True,1.4202027320861816
+14,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence has to been
+eliminated. Target is to
+bring F1_test",113,145,0.2206896551724138,0.3_0.8_2_True_True,1.9388153553009033
+80,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence must be
+eliminated. Target is to
+bring F1_testf",110,145,0.2413793103448276,0.3_0.8_3_False_True,2.0136148929595947
+116,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+must be eliminated.
+Target is",92,145,0.36551724137931035,0.3_0.6_3_False_True,1.4661076068878174
+110,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+must be eliminated.
+Target is",92,145,0.36551724137931035,0.3_0.6_4_False_True,1.5428738594055176
+98,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence must
+be eliminated. Target
+is to bring F1",104,145,0.2827586206896552,0.3_0.7_3_False_True,1.7991878986358643
+56,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_4_True_True,1.2665865421295166
+8,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence must be
+eliminated. Target is to
+bring F1_testf",110,145,0.2413793103448276,0.3_0.8_4_True_True,2.0525107383728027
+62,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_3_True_True,1.240682601928711
+140,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_3_False_True,1.2416777610778809
+68,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_2_True_True,1.1898176670074463
+32,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence has
+to been eliminated.
+Target is to bring F",107,145,0.2620689655172414,0.3_0.7_2_True_True,1.7124500274658203
+146,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_2_False_True,1.2366933822631836
+2,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has to
+be understood and failure
+occurrence must be
+eliminated. Target is to
+bring F1_testf",110,145,0.2413793103448276,0.3_0.8_3_True_True,2.0804362297058105
+38,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause
+has to be
+understood and
+failure occurrence
+must be eliminated.
+Target is",92,145,0.36551724137931035,0.3_0.6_4_True_True,1.4830336570739746
+134,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root
+cause has to be
+understood and
+failure
+occurrence has
+to",69,145,0.5241379310344828,0.3_0.5_4_False_True,1.264617919921875
+26,Failure root cause has to be understood and failure occurrence has to be eliminated. Target is to bring F1_testfails to zero % at customer plants,"Failure root cause has
+to be understood and
+failure occurrence must
+be eliminated. Target
+is to bring F1",104,145,0.2827586206896552,0.3_0.7_3_True_True,1.7792415618896484
+97,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out. Just one system affected
+were the second test was",197,281,0.298932384341637,0.3_0.7_3_False_True,3.5126054286956787
+49,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out. Just
+one system",163,281,0.4199288256227758,0.3_0.6_2_True_True,3.0348429679870605
+91,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out. Just one system affected
+were the second test was",197,281,0.298932384341637,0.3_0.7_4_False_True,3.7778918743133545
+85,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out. Just
+one system affected were the second test was also
+not ok. this system will",227,281,0.19217081850533807,0.3_0.8_2_False_True,3.9055838584899902
+79,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out. Just
+one system affected were the second test was also
+not ok. this system will",227,281,0.19217081850533807,0.3_0.8_3_False_True,4.045180559158325
+55,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_4_True_True,2.6170313358306885
+73,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out. Just
+one system affected were the second test was also
+not ok. this system will",227,281,0.19217081850533807,0.3_0.8_4_False_True,4.195777893066406
+67,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_2_True_True,2.4684133529663086
+61,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_3_True_True,2.5691275596618652
+43,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out. Just
+one system",163,281,0.4199288256227758,0.3_0.6_3_True_True,3.022914171218872
+37,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out.",147,281,0.47686832740213525,0.3_0.6_4_True_True,2.8513736724853516
+31,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out. Just one system affected
+were the second test was",197,281,0.298932384341637,0.3_0.7_2_True_True,3.3759706020355225
+103,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out. Just one system affected
+were the second test was",197,281,0.298932384341637,0.3_0.7_2_False_True,3.389932870864868
+127,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out. Just
+one system affected were the second test was also
+not ok. this system will",227,281,0.19217081850533807,0.3_0.8_4_False_True,4.199768781661987
+139,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_3_False_True,2.5581579208374023
+19,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out.",147,281,0.47686832740213525,0.3_0.7_4_True_True,2.827436685562134
+7,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out.",147,281,0.47686832740213525,0.3_0.8_4_True_True,2.849379062652588
+13,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. Just one system affected were the
+second test was also not ok. this system will be
+send to RGB.",209,281,0.25622775800711745,0.3_0.8_2_True_True,3.670156955718994
+121,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out. Just
+one system",163,281,0.4199288256227758,0.3_0.6_2_False_True,2.9172258377075195
+115,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out. Just
+one system",163,281,0.4199288256227758,0.3_0.6_3_False_True,3.0279033184051514
+145,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_2_False_True,2.6618800163269043
+109,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test
+can be repeated without the failure.
+BMW decided to send the cars out. Just
+one system",163,281,0.4199288256227758,0.3_0.6_4_False_True,3.2882065773010254
+1,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are infected.
+After some minutes the test can be repeated without
+the failure. BMW decided to send the cars out.",147,281,0.47686832740213525,0.3_0.8_3_True_True,3.142594814300537
+25,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR systems) are
+infected. After some minutes the test can be
+repeated without the failure. BMW decided to
+send the cars out.",147,281,0.47686832740213525,0.3_0.7_3_True_True,3.195417881011963
+133,"All BMW plants (using SCR systems) are infected, also all variants (using SCR system). After some minutes the test can be repeated without the failure. BMW decided to send the cars out. Just one system affected were the second test was also not ok. this system will be send to RGB.","All BMW plants (using SCR
+systems) are infected. After
+some minutes the test can be
+repeated without the failure.
+BMW decided to send the",137,281,0.5124555160142349,0.3_0.5_4_False_True,2.6090221405029297
+72,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_4_False_True,5.6139843463897705
+144,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_2_False_True,3.4776976108551025
+138,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_3_False_True,3.273244619369507
+78,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_3_False_True,5.2479612827301025
+132,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_4_False_True,3.3939218521118164
+102,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_2_False_True,4.422171115875244
+126,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_4_False_True,5.456405878067017
+90,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_4_False_True,4.739322662353516
+120,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_2_False_True,3.8207814693450928
+96,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_3_False_True,4.59667706489563
+114,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_3_False_True,3.9245028495788574
+108,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_4_False_True,4.307477951049805
+84,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_2_False_True,5.0325400829315186
+66,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_2_True_True,3.201434373855591
+0,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_3_True_True,5.392576694488525
+30,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_2_True_True,4.39225172996521
+48,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_2_True_True,3.884608745574951
+60,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_3_True_True,3.278230905532837
+12,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_2_True_True,4.9936583042144775
+18,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_4_True_True,4.754284381866455
+24,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant
+Dingolfing (Hr. Habold MUC). There's no specific OBD
+failure code. The failure appears after first SCR system
+initiation (F1_Test). Failed at test",198,300,0.34,0.3_0.7_3_True_True,4.562829494476318
+36,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_4_True_True,4.062132835388184
+6,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.) @plant Dingolfing
+(Hr. Habold MUC). There's no specific OBD failure code. The
+failure appears after first SCR system initiation (F1_Test).
+Failed at test step: System leak test. Service 31",233,300,0.22333333333333333,0.3_0.8_4_True_True,5.537187337875366
+42,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018 (19.07.)
+@plant Dingolfing (Hr. Habold MUC). There's no
+specific OBD failure code. The failure appears
+after first SCR system initiation (",174,300,0.42,0.3_0.6_3_True_True,3.935474157333374
+54,BMW complained first issues 07/2018 (19.07.) @plant Dingolfing (Hr. Habold MUC). There're no specific OBD failure code. The failure appears after first SCR system initiation (F1_Test). Failed at test step: System leak test. Service 31 ID 0x301 Detailed failure description see attachment (EINFÜGEN!).,"BMW complained first issues 07/2018
+(19.07.) @plant Dingolfing (Hr. Habold
+MUC). There's no specific OBD failure
+code. The failure",130,300,0.5666666666666667,0.3_0.5_4_True_True,3.461740255355835
+46,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed.
+Calibration data was sent 20thof November. BMW
+internal tests ongoing. Software is planned to
+be implemented with next I-Step 1430.",173,318,0.4559748427672956,0.3_0.6_3_True_True,3.6243085861206055
+94,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration
+data was sent 20thof November. BMW internal tests
+ongoing. Software is planned to be implemented with next
+I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).",216,318,0.32075471698113206,0.3_0.7_4_False_True,4.593714237213135
+124,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the
+current test pressure of 5.5bar to 6.5 bar
+(Daimler Setup) Software validation performed
+and passed. Calibration data was sent 20thof
+November. BMW",190,318,0.4025157232704403,0.3_0.6_2_False_True,3.7280304431915283
+16,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the current test pressure
+of 5.5bar to 6.5 bar (Daimler Setup) Software validation
+performed and passed. Calibration data was sent 20thof November.
+BMW internal tests ongoing.",214,318,0.3270440251572327,0.3_0.8_2_True_True,4.008279800415039
+88,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the current test pressure
+of 5.5bar to 6.5 bar (Daimler Setup) Software validation
+performed and passed. Calibration data was sent 20thof November.
+BMW internal tests ongoing. Software is planned to be
+implemented with next I-Step 14",272,318,0.14465408805031446,0.3_0.8_2_False_True,4.944775104522705
+100,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration
+data was sent 20thof November. BMW internal tests
+ongoing. Software is planned to be implemented with next
+I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).",216,318,0.32075471698113206,0.3_0.7_3_False_True,4.410202980041504
+118,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed.
+Calibration data was sent 20thof November. BMW
+internal tests ongoing. Software is planned to
+be implemented with next I-Step 1430 (active:
+07/2019, data freeze:",203,318,0.36163522012578614,0.3_0.6_3_False_True,3.830754280090332
+34,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the current test
+pressure of 5.5bar to 6.5 bar (Daimler Setup) Software
+validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing.",214,318,0.3270440251572327,0.3_0.7_2_True_True,4.0192859172821045
+28,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration
+data was sent 20thof November. BMW internal tests
+ongoing. Software is planned to be implemented with next
+I-Step 1430.",173,318,0.4559748427672956,0.3_0.7_3_True_True,3.360013961791992
+106,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the current test
+pressure of 5.5bar to 6.5 bar. Software validation
+performed and passed. Calibration data was sent 20thof
+November. BMW internal tests ongoing. Software is
+planned to be implemented with next I",249,318,0.2169811320754717,0.3_0.7_2_False_True,4.33640193939209
+64,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and
+passed. Calibration data was sent 20thof
+November. BMW internal tests ongoing.
+Software is planned to be implemented
+with next I-Step 1430 (active",180,318,0.4339622641509434,0.3_0.5_3_True_True,3.1984446048736572
+22,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration
+data was sent 20thof November. BMW internal tests
+ongoing. Software is planned to be implemented with next
+I-Step 1430.",173,318,0.4559748427672956,0.3_0.7_4_True_True,3.439800262451172
+40,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed.
+Calibration data was sent 20thof November. BMW
+internal tests ongoing. Software is planned to
+be implemented with next I-Step 1430.",173,318,0.4559748427672956,0.3_0.6_4_True_True,3.48468017578125
+112,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed.
+Calibration data was sent 20thof November. BMW
+internal tests ongoing. Software is planned to
+be implemented with next I-Step 1430 (active:
+07/2019, data freeze:",203,318,0.36163522012578614,0.3_0.6_4_False_True,3.9693832397460938
+82,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing. Software is
+planned to be implemented with next I-Step 1430 (active:
+07/2019, data freeze: 28.11.2018).",216,318,0.32075471698113206,0.3_0.8_3_False_True,4.413194417953491
+4,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing. Software is
+planned to be implemented with next I-Step 1430.",173,318,0.4559748427672956,0.3_0.8_3_True_True,3.332087278366089
+52,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase the
+current test pressure of 5.5bar to 6.5 bar
+(Daimler Setup) Software validation performed
+and passed. Calibration data was sent 20thof
+November. BMW",190,318,0.4025157232704403,0.3_0.6_2_True_True,4.180816888809204
+136,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and
+passed. Calibration data was sent 20thof
+November. BMW internal tests ongoing.
+Software is planned to be implemented
+with next I-Step 1430 (active",180,318,0.4339622641509434,0.3_0.5_4_False_True,3.3191237449645996
+76,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing. Software is
+planned to be implemented with next I-Step 1430 (active:
+07/2019, data freeze: 28.11.2018).",216,318,0.32075471698113206,0.3_0.8_4_False_True,4.533888339996338
+70,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase
+the current test pressure of 5.5bar to
+6.5 bar. Software validation performed
+and passed. Calibration data was sent
+20thof",161,318,0.4937106918238994,0.3_0.5_2_True_True,3.1455509662628174
+130,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing. Software is
+planned to be implemented with next I-Step 1430 (active:
+07/2019, data freeze: 28.11.2018).",216,318,0.32075471698113206,0.3_0.8_4_False_True,4.6854681968688965
+10,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and passed. Calibration data was
+sent 20thof November. BMW internal tests ongoing. Software is
+planned to be implemented with next I-Step 1430.",173,318,0.4559748427672956,0.3_0.8_4_True_True,3.4607439041137695
+148,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Alignment with customer is to increase
+the current test pressure of 5.5bar to
+6.5 bar. Software validation performed
+and passed. Calibration data was sent
+20thof",161,318,0.4937106918238994,0.3_0.5_2_False_True,2.7466533184051514
+58,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and
+passed. Calibration data was sent 20thof
+November. BMW internal tests ongoing.
+Software is planned to be implemented
+with next I-Step 1430 (active",180,318,0.4339622641509434,0.3_0.5_4_True_True,3.286210060119629
+142,"Alignment with customer is to increase the current test pressure of 5.5bar to 6.5bar (Daimler Setup). Software validation performed and passed. Calibration data was sent 20thof November. BMW internal tests ongoing. Software is planned to be implemented with next I-Step 1430 (active: 07/2019, data freeze: 28.11.2018).","Software validation performed and
+passed. Calibration data was sent 20thof
+November. BMW internal tests ongoing.
+Software is planned to be implemented
+with next I-Step 1430 (active",180,318,0.4339622641509434,0.3_0.5_3_False_True,3.195453405380249
+17,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.",122,388,0.6855670103092784,0.3_0.8_2_True_True,2.0993845462799072
+113,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For
+the evaluation six failed (rejected by
+customer) and 21 new pumps were used.
+Monitoring since several months showed a
+significant decrease of failures (less than 1
+percent one car) over all",235,388,0.3943298969072165,0.3_0.6_4_False_True,3.902597188949585
+5,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. Six failed (rejected
+by customer) and 21 new pumps were used. Software update in
+place since I-Step 19-3-510.",151,388,0.6108247422680413,0.3_0.8_3_True_True,3.0338850021362305
+143,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. For the evaluation six failed
+(rejected by customer) and 21 new pumps
+were used. Software update in place
+since I-Step 19-3-",166,388,0.5721649484536082,0.3_0.5_3_False_True,3.1336185932159424
+119,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For
+the evaluation six failed (rejected by
+customer) and 21 new pumps were used.
+Monitoring since several months showed a
+significant decrease of failures (less than 1
+percent one car) over all",235,388,0.3943298969072165,0.3_0.6_3_False_True,3.7539596557617188
+137,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. For the evaluation six failed
+(rejected by customer) and 21 new pumps
+were used. Software update in place
+since I-Step 19-3-",166,388,0.5721649484536082,0.3_0.5_4_False_True,3.240368604660034
+125,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For
+the evaluation six failed (rejected by
+customer) and 21 new pumps were used.
+Monitoring since several months showed a
+significant decrease of failures (less than 1
+percent one car) over all",235,388,0.3943298969072165,0.3_0.6_2_False_True,3.6592142581939697
+11,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510.",170,388,0.5618556701030928,0.3_0.8_4_True_True,3.384946584701538
+131,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510. Monitoring
+since several months showed a significant decrease of failures
+(less than 1 percent one car) over all BMW closed",294,388,0.2422680412371134,0.3_0.8_4_False_True,5.320768594741821
+23,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the
+evaluation six failed (rejected by customer) and 21 new
+pumps were used. Software update in place since I-Step
+19-3-510.",170,388,0.5618556701030928,0.3_0.7_4_True_True,3.35402774810791
+65,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. Six failed (rejected by
+customer) and 21 new pumps were used.
+Software update in place since I-Step
+19-3-510.",151,388,0.6108247422680413,0.3_0.5_3_True_True,3.0538315773010254
+107,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the
+evaluation six failed (rejected by customer) and 21 new
+pumps were used. Monitoring since several months showed
+a significant decrease of failures (less than 1 percent
+one car) over all BMW closed by customer. Passive
+monitoring ongoing",286,388,0.26288659793814434,0.3_0.7_2_False_True,4.259606599807739
+29,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. Six failed
+(rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510.",151,388,0.6108247422680413,0.3_0.7_3_True_True,3.0358448028564453
+59,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. For the evaluation six failed
+(rejected by customer) and 21 new pumps
+were used. Software update in place
+since I-Step 19-3-",166,388,0.5721649484536082,0.3_0.5_4_True_True,3.237339973449707
+71,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. For the evaluation six failed
+(rejected by customer) and 21 new pumps
+were used.",122,388,0.6855670103092784,0.3_0.5_2_True_True,2.1233222484588623
+77,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510. Monitoring
+since several months showed a significant decrease of failures
+(less than 1 percent one car) over all BMW closed",294,388,0.2422680412371134,0.3_0.8_4_False_True,5.274890899658203
+53,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For
+the evaluation six failed (rejected by
+customer) and 21 new pumps were used.",122,388,0.6855670103092784,0.3_0.6_2_True_True,2.375645637512207
+83,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510. Monitoring
+since several months showed a significant decrease of failures
+(less than 1 percent one car) over all BMW closed",294,388,0.2422680412371134,0.3_0.8_3_False_True,5.090385675430298
+89,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the evaluation
+six failed (rejected by customer) and 21 new pumps were used.
+Software update in place since I-Step 19-3-510. Monitoring
+since several months showed a significant decrease of failures
+(less than 1 percent one car) over all BMW closed",294,388,0.2422680412371134,0.3_0.8_2_False_True,4.90787410736084
+95,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the
+evaluation six failed (rejected by customer) and 21 new
+pumps were used. Monitoring since several months showed
+a significant decrease of failures (less than 1 percent
+one car) over all BMW closed by customer. Passive
+monitoring ongoing",286,388,0.26288659793814434,0.3_0.7_4_False_True,4.585734605789185
+41,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For
+the evaluation six failed (rejected by
+customer) and 21 new pumps were used. Software
+update in place since I-Step 19-3-510.",170,388,0.5618556701030928,0.3_0.6_4_True_True,3.377964973449707
+47,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. Six
+failed (rejected by customer) and 21 new pumps
+were used. Software update in place since
+I-Step 19-3-510.",151,388,0.6108247422680413,0.3_0.6_3_True_True,3.1735377311706543
+149,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and
+passed. For the evaluation six failed
+(rejected by customer) and 21 new pumps
+were used. Software update in place
+since I-Step 19-3-",166,388,0.5721649484536082,0.3_0.5_2_False_True,2.6718552112579346
+101,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the
+evaluation six failed (rejected by customer) and 21 new
+pumps were used. Monitoring since several months showed
+a significant decrease of failures (less than 1 percent
+one car) over all BMW closed by customer. Passive
+monitoring ongoing",286,388,0.26288659793814434,0.3_0.7_3_False_True,4.437132358551025
+35,Software validation performed and passed. For the evaluation six failed (rejected by customer) and 21 new pumps were used. Results are shown in separate file. Software update in place since I-Step 19-3-510. Monitoring since several months showed a significant decrease of failures (less than 1 percent one car) over all BMW closed by customer. Passive monitoring ongoing on customer site.,"Software validation performed and passed. For the
+evaluation six failed (rejected by customer) and 21 new
+pumps were used.",122,388,0.6855670103092784,0.3_0.7_2_True_True,2.102342367172241
+147,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance. During this test only the
+returned TFM was used and therefore the rootcause could be located to the TFM
+module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified
+Is",317,742,0.5727762803234502,0.3_0.5_2_False_True,5.8683037757873535
+3,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. Please consider
+the additional ""fault tree file"" and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.8_3_True_True,6.681129693984985
+63,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance. During this test only the
+returned TFM was used and therefore the rootcause could be located to the TFM
+module. Please consider the additional ""fault tree file"" and presentation,,DD
+additional docs"".",328,742,0.5579514824797843,0.3_0.5_3_True_True,6.427809476852417
+33,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located
+to the TFM module. Please consider the additional ""fault tree file"" and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.7_2_True_True,6.118634939193726
+69,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance. During this test only the
+returned TFM was used and therefore the rootcause could be located to the TFM
+module. Please consider the additional ""fault tree file"" and presentation,,DD
+additional docs"".",328,742,0.5579514824797843,0.3_0.5_2_True_True,6.121624708175659
+105,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located
+to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any
+connection between failure re-occurrence and time between first and second Components analysis in consideration
+of failure description (leakage, damages, Full pump characterization",508,742,0.31536388140161725,0.3_0.7_2_False_True,9.124594926834106
+141,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance. During this test only the
+returned TFM was used and therefore the rootcause could be located to the TFM
+module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified
+Is",317,742,0.5727762803234502,0.3_0.5_3_False_True,6.836715936660767
+57,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance and therefore the system
+leaktest is passed. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 to
+locate source of symptom.",259,742,0.6509433962264151,0.3_0.5_4_True_True,5.970031261444092
+9,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance
+and therefore the system leaktest is passed. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 to locate source of
+symptom.",259,742,0.6509433962264151,0.3_0.8_4_True_True,5.985989093780518
+75,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part
+was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40
+to locate source of symptom) Optimization of BMW test to be",573,742,0.22776280323450135,0.3_0.8_4_False_True,12.25821304321289
+27,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located
+to the TFM module. Please consider the additional ""fault tree file"" and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.7_3_True_True,6.39090633392334
+21,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance and therefore the system leaktest is passed. RDU: First part was NTF; cleanliness analysis
+t.b.d CW 40 to locate source of symptom.",259,742,0.6509433962264151,0.3_0.7_4_True_True,5.920165300369263
+81,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part
+was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40
+to locate source of symptom) Optimization of BMW test to be",573,742,0.22776280323450135,0.3_0.8_3_False_True,11.503234386444092
+117,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance. During this test only the returned TFM was used and therefore the
+rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d
+CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components",413,742,0.44339622641509435,0.3_0.6_3_False_True,8.339666843414307
+15,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. Please consider
+the additional ""fault tree file"" and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.8_2_True_True,6.0737550258636475
+51,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance. During this test only the returned TFM was used and therefore the
+rootcause could be located to the TFM module. Please consider the additional ""fault tree file""
+and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.6_2_True_True,6.869868755340576
+111,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance and therefore the system leaktest is passed. RDU: First part was
+NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-
+occurrence and time between first and second Components analysis in consideration of failure
+description (leakage, damages, Full pump characterization",441,742,0.4056603773584906,0.3_0.6_4_False_True,9.05076551437378
+129,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part
+was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40
+to locate source of symptom) Optimization of BMW test to be",573,742,0.22776280323450135,0.3_0.8_4_False_True,12.639193296432495
+87,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance.
+During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part
+was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40
+to locate source of symptom) Optimization of BMW test to be",573,742,0.22776280323450135,0.3_0.8_2_False_True,10.523851871490479
+45,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance. During this test only the returned TFM was used and therefore the
+rootcause could be located to the TFM module. Please consider the additional ""fault tree file""
+and presentation,,DD additional docs"".",328,742,0.5579514824797843,0.3_0.6_3_True_True,6.428806781768799
+93,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located
+to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any
+connection between failure re-occurrence and time between first and second Components analysis in consideration
+of failure description (leakage, damages, Full pump characterization",508,742,0.31536388140161725,0.3_0.7_4_False_True,10.590672492980957
+99,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are
+still in tolerance. During this test only the returned TFM was used and therefore the rootcause could be located
+to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any
+connection between failure re-occurrence and time between first and second Components analysis in consideration
+of failure description (leakage, damages, Full pump characterization",508,742,0.31536388140161725,0.3_0.7_3_False_True,9.874589204788208
+123,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance. During this test only the returned TFM was used and therefore the
+rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d
+CW 40 To be clarified Is there any connection between failure re-occurrence and time between
+first and second Components",413,742,0.44339622641509435,0.3_0.6_2_False_True,7.813103675842285
+39,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure
+values are still in tolerance and therefore the system leaktest is passed. RDU: First part was
+NTF; cleanliness analysis t.b.d CW 40 to locate source of symptom.",259,742,0.6509433962264151,0.3_0.6_4_True_True,5.975018262863159
+135,"Components/systems analysis: TFM/System: Drop of pressure partly reproduceable at RBG testbench since 28.09.2018, but pressure values are still in tolerance and therefore the system leaktest is passed. During this test only the returned TFM was used and therefore the rootcause could be located to the TFM module. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To be clarified Is there any connection between failure re-occurrence and time between first and second Components analysis in consideration of failure description (leakage, damages, Full pump characterization cw40 to locate source of symptom Optimization of BMW test to be proved. Please consider the additional ""fault tree file"" and presentation ,,DD additional docs"".","TFM/System: Drop of pressure partly reproduceable at RBG testbench since
+28.09.2018, but pressure values are still in tolerance and therefore the system
+leaktest is passed. RDU: First part was NTF; cleanliness analysis t.b.d CW 40 To
+be clarified Is there any connection between failure re-occurrence and time
+between first and second Components",345,742,0.5350404312668463,0.3_0.5_4_False_True,7.276537656784058
